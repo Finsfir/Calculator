@@ -1,6 +1,6 @@
 # Calculator
 
-This application demonstrates some simple principles of C# & XAML possibilites in Universal Windows Platform.
+This application demonstrates my coding ability via Universal Windows Platform.
 
 # Installation
 
